@@ -1,9 +1,8 @@
-console.log('Hello World');
+console.log("Hello World");
 function sum(a, b) {
-    console.log(a + b)
+  console.log(a + b);
 }
 
 sum(5, 1);
 
-sum(3, 2)
-
+sum(3, 2);
